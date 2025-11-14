@@ -5,3 +5,5 @@
 1. Git Basics
 2. More advanced topics 
 3. Other information
+
+## Making a new change
